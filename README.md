@@ -1,7 +1,5 @@
 # Face recognition security system
 
-- Video demonstration of working application is available on the following link: https://youtu.be/qb1KZ4enTIA
-
 The main goal of creating such a system is to make security as convenient as possible. Granting access to various facilities and areas inside them without keys, cards, or passwords can make the presence of a security guard or continuous in-person monitoring obsolete. At the same time, it can eliminate inconvenience caused by carrying keys and paper ID.
 
 Smart security is the future, and with the help of the technology available today, an affordable intelligent security system is within our reach. This application is a low-cost, adaptive, and extensible surveillance system focused on identifying visitors. It can be integrated into an existing alarm system or be paired with a lock. It operates in real time and can distinguish between someone who is in the face database and someone who is not (a potential intruder).
@@ -33,7 +31,6 @@ The core of the application is face recognition algorithm which first detects a 
 - Email notifications of entering the place
 - Blocking the door via email link in case of cheating
 
-![3](https://user-images.githubusercontent.com/18744749/31586456-fa48f930-b1d9-11e7-9839-93302146da40.jpg)
 
 ## System installation
 
